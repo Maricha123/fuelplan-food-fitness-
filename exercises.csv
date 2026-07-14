@@ -1,0 +1,31 @@
+ExerciseID,Exercise,Category,MET,Intensity,Equipment,GoalTags,KcalPerKgPerHour
+E001,"Walking (slow, 3km/h)",Cardio,2.8,low,none,"weight-loss,maintenance,general-health",2.94
+E002,"Walking (brisk, 5.5km/h)",Cardio,3.8,low,none,"weight-loss,maintenance,general-health",3.99
+E003,Jogging (8km/h),Cardio,8.3,moderate,none,"weight-loss,endurance",8.72
+E004,Running (10km/h),Cardio,9.8,high,none,"weight-loss,endurance",10.29
+E005,Running (12km/h),Cardio,11.8,high,none,"weight-loss,endurance",12.39
+E006,"Cycling (leisure, 16km/h)",Cardio,6.0,moderate,bicycle,"weight-loss,endurance",6.3
+E007,"Cycling (vigorous, 25km/h)",Cardio,10.0,high,bicycle,"weight-loss,endurance",10.5
+E008,Swimming (moderate laps),Cardio,7.0,moderate,pool,"weight-loss,endurance,low-impact",7.35
+E009,Jump rope,Cardio,11.0,high,jump rope,"weight-loss,endurance",11.55
+E010,Stair climbing,Cardio,8.8,high,none,"weight-loss,endurance",9.24
+E011,Dancing (aerobic),Cardio,6.5,moderate,none,"weight-loss,general-health",6.83
+E012,"Football (soccer, casual)",Sport,7.0,moderate,ball,"weight-loss,endurance",7.35
+E013,Basketball (casual),Sport,6.5,moderate,ball,"weight-loss,endurance",6.83
+E014,Boxing (training bag),Sport,7.8,high,gloves,"weight-loss,strength",8.19
+E015,"Hiking (hills, pack)",Cardio,6.8,moderate,none,"weight-loss,endurance",7.14
+E016,Bodyweight squats,Strength,5.0,moderate,none,"muscle-gain,strength,general-health",5.25
+E017,Push-ups,Strength,3.8,moderate,none,"muscle-gain,strength",3.99
+E018,Pull-ups,Strength,8.0,high,pull-up bar,"muscle-gain,strength",8.4
+E019,Weight lifting (light-moderate),Strength,3.5,low,dumbbells,"muscle-gain,strength",3.67
+E020,Weight lifting (vigorous),Strength,6.0,high,dumbbells/barbell,"muscle-gain,strength",6.3
+E021,Deadlifts / compound lifts,Strength,6.0,high,barbell,"muscle-gain,strength",6.3
+E022,Plank / core circuit,Strength,4.0,moderate,none,"muscle-gain,strength,general-health",4.2
+E023,Resistance band workout,Strength,4.0,moderate,resistance band,"muscle-gain,strength",4.2
+E024,Yoga (Hatha),Flexibility,2.5,low,mat,"flexibility,stress-relief,general-health",2.62
+E025,Yoga (Vinyasa/Power),Flexibility,4.0,moderate,mat,"flexibility,weight-loss,stress-relief",4.2
+E026,Stretching / mobility,Flexibility,2.3,low,mat,"flexibility,recovery",2.41
+E027,Pilates,Flexibility,3.8,moderate,mat,"flexibility,strength,general-health",3.99
+E028,HIIT circuit,Cardio,8.0,high,none,"weight-loss,endurance,strength",8.4
+E029,Rowing machine,Cardio,7.0,moderate,rowing machine,"weight-loss,endurance,strength",7.35
+E030,Elliptical trainer,Cardio,5.0,moderate,elliptical machine,"weight-loss,low-impact",5.25

@@ -1,0 +1,324 @@
+FoodID,Food,Measure,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category,Calories_per100g,Protein_per100g,Fat_per100g,Sat.Fat_per100g,Fiber_per100g,Carbs_per100g,DietTags,MealType,HealthScore,CalorieCategory,FoodGroup
+F0001,Cows' milk,1 qt.,976.0,660.0,32.0,40.0,36.0,0.0,48.0,Dairy products,67.62,3.28,4.1,3.69,0.0,4.92,"vegetarian,low-carb,low-calorie","breakfast,snack",48.2,low,Dairy
+F0002,Milk skim,1 qt.,984.0,360.0,36.0,0.05,0.05,0.0,52.0,Dairy products,36.59,3.66,0.01,0.01,0.0,5.28,"vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",52.9,low,Dairy
+F0003,Buttermilk,1 cup,246.0,127.0,9.0,5.0,4.0,0.0,13.0,Dairy products,51.63,3.66,2.03,1.63,0.0,5.28,"vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",51.0,low,Dairy
+F0004,"Evaporated, undiluted",1 cup,252.0,345.0,16.0,20.0,18.0,0.0,24.0,Dairy products,136.9,6.35,7.94,7.14,0.0,9.52,"vegetarian,low-carb","breakfast,snack",46.5,medium,Dairy
+F0005,Fortified milk,6 cups,1419.0,1373.0,89.0,42.0,23.0,1.4,119.0,Dairy products,96.76,6.27,2.96,1.62,0.1,8.39,"vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",53.2,low,Dairy
+F0006,Powdered milk,1 cup,103.0,515.0,27.0,28.0,24.0,0.0,39.0,Dairy products,500.0,26.21,27.18,23.3,0.0,37.86,"vegetarian,high-protein","breakfast,snack",19.0,high,Dairy
+F0007,"skim, instant",1 1/3 cups,85.0,290.0,30.0,0.05,0.05,0.0,42.0,Dairy products,341.18,35.29,0.06,0.06,0.0,49.41,"vegetarian,high-protein,low-fat","breakfast,snack",58.6,high,Dairy
+F0008,"skim, non-instant",2/3 cup,85.0,290.0,30.0,0.05,0.05,1.0,42.0,Dairy products,341.18,35.29,0.06,0.06,1.18,49.41,"vegetarian,high-protein,low-fat","breakfast,snack",60.4,high,Dairy
+F0009,Goats' milk,1 cup,244.0,165.0,8.0,10.0,8.0,0.0,11.0,Dairy products,67.62,3.28,4.1,3.28,0.0,4.51,"vegetarian,low-carb,low-calorie","breakfast,snack",48.7,low,Dairy
+F0010,(1/2 cup ice cream),2 cups,540.0,690.0,24.0,24.0,22.0,0.0,70.0,Dairy products,127.78,4.44,4.44,4.07,0.0,12.96,vegetarian,"breakfast,snack",48.7,medium,Dairy
+F0011,Cocoa,1 cup,252.0,235.0,8.0,11.0,10.0,0.0,26.0,Dairy products,93.25,3.17,4.37,3.97,0.0,10.32,"vegetarian,low-calorie","breakfast,snack",47.8,low,Dairy
+F0012,skim. milk,1 cup,250.0,128.0,18.0,4.0,3.0,1.0,13.0,Dairy products,51.2,7.2,1.6,1.2,0.4,5.2,"vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",54.9,low,Dairy
+F0013,(cornstarch),1 cup,248.0,275.0,9.0,10.0,9.0,0.0,40.0,Dairy products,110.89,3.63,4.03,3.63,0.0,16.13,vegetarian,"breakfast,snack",48.5,medium,Dairy
+F0014,Custard,1 cup,248.0,285.0,13.0,14.0,11.0,0.0,28.0,Dairy products,114.92,5.24,5.65,4.44,0.0,11.29,vegetarian,"breakfast,snack",48.9,medium,Dairy
+F0015,Ice cream,1 cup,188.0,300.0,6.0,18.0,16.0,0.0,29.0,Dairy products,159.57,3.19,9.57,8.51,0.0,15.43,vegetarian,"breakfast,snack",41.6,medium,Dairy
+F0016,Ice milk,1 cup,190.0,275.0,9.0,10.0,9.0,0.0,32.0,Dairy products,144.74,4.74,5.26,4.74,0.0,16.84,vegetarian,"breakfast,snack",48.1,medium,Dairy
+F0017,Cream or half-and-half,1/2 cup,120.0,170.0,4.0,15.0,13.0,0.0,5.0,Dairy products,141.67,3.33,12.5,10.83,0.0,4.17,"vegetarian,low-carb","breakfast,snack",39.7,medium,Dairy
+F0018,or whipping,1/2 cup,119.0,430.0,2.0,44.0,27.0,1.0,3.0,Dairy products,361.34,1.68,36.97,22.69,0.84,2.52,"vegetarian,low-carb","breakfast,snack",11.7,high,Dairy
+F0019,Cheese,1 cup,225.0,240.0,30.0,11.0,10.0,0.0,6.0,Dairy products,106.67,13.33,4.89,4.44,0.0,2.67,"vegetarian,low-carb","breakfast,snack",55.3,medium,Dairy
+F0020,uncreamed,1 cup,225.0,195.0,38.0,0.05,0.05,0.0,6.0,Dairy products,86.67,16.89,0.02,0.02,0.0,2.67,"vegetarian,high-protein,low-carb,low-fat,low-calorie","breakfast,snack",63.5,low,Dairy
+F0021,Cheddar,1-in. cube,17.0,70.0,4.0,6.0,5.0,0.0,0.05,Dairy products,411.76,23.53,35.29,29.41,0.0,0.29,"vegetarian,high-protein,low-carb","breakfast,snack",23.9,high,Dairy
+F0022,"Cheddar, grated cup",1/2 cup,56.0,226.0,14.0,19.0,17.0,0.0,1.0,Dairy products,403.57,25.0,33.93,30.36,0.0,1.79,"vegetarian,high-protein,low-carb","breakfast,snack",25.7,high,Dairy
+F0023,Cream cheese,1 oz.,28.0,105.0,2.0,11.0,10.0,0.0,1.0,Dairy products,375.0,7.14,39.29,35.71,0.0,3.57,"vegetarian,low-carb","breakfast,snack",13.7,high,Dairy
+F0024,Processed cheese,1 oz.,28.0,105.0,7.0,9.0,8.0,0.0,0.05,Dairy products,375.0,25.0,32.14,28.57,0.0,0.18,"vegetarian,high-protein,low-carb","breakfast,snack",28.0,high,Dairy
+F0025,Roquefort type,1 oz.,28.0,105.0,6.0,9.0,8.0,0.0,0.05,Dairy products,375.0,21.43,32.14,28.57,0.0,0.18,"vegetarian,high-protein,low-carb","breakfast,snack",25.1,high,Dairy
+F0026,Swiss,1 oz.,28.0,105.0,7.0,8.0,7.0,0.0,0.05,Dairy products,375.0,25.0,28.57,25.0,0.0,0.18,"vegetarian,high-protein,low-carb","breakfast,snack",28.0,high,Dairy
+F0027,Eggs raw,2,100.0,150.0,12.0,12.0,10.0,0.0,0.05,Dairy products,150.0,12.0,12.0,10.0,0.0,0.05,low-carb,"breakfast,snack",47.6,medium,Dairy
+F0028,Eggs Scrambled or fried,2,128.0,220.0,13.0,16.0,14.0,0.0,1.0,Dairy products,171.88,10.16,12.5,10.94,0.0,0.78,low-carb,"breakfast,snack",43.2,medium,Dairy
+F0029,Yolks,2,34.0,120.0,6.0,10.0,8.0,0.0,0.05,"Fats, Oils, Shortenings",352.94,17.65,29.41,23.53,0.0,0.15,"vegan,vegetarian,high-protein,low-carb","lunch,dinner",23.9,high,"Fats, Oils & Nuts"
+F0030,Butter,1T.,14.0,100.0,0.05,11.0,10.0,0.0,0.05,"Fats, Oils, Shortenings",714.29,0.36,78.57,71.43,0.0,0.36,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0031,Hydrogenated cooking fat,1/2 cup,100.0,665.0,0.0,100.0,88.0,0.0,0.0,"Fats, Oils, Shortenings",665.0,0.0,100.0,88.0,0.0,0.0,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0032,Lard,1/2 cup,110.0,992.0,0.0,110.0,92.0,0.0,0.0,"Fats, Oils, Shortenings",901.82,0.0,100.0,83.64,0.0,0.0,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0033,Margarine,1/2 cup,112.0,806.0,0.05,91.0,76.0,0.0,0.05,"Fats, Oils, Shortenings",719.64,0.04,81.25,67.86,0.0,0.04,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0034,"Margarine, 2 pat or",1 T.,14.0,100.0,0.05,11.0,9.0,0.0,0.05,"Fats, Oils, Shortenings",714.29,0.36,78.57,64.29,0.0,0.36,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0035,Mayonnaise,1 T.,15.0,110.0,0.05,12.0,5.0,0.0,0.05,"Fats, Oils, Shortenings",733.33,0.33,80.0,33.33,0.0,0.33,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0036,Corn oil,1 T.,14.0,125.0,0.0,14.0,5.0,0.0,0.0,"Fats, Oils, Shortenings",892.86,0.0,100.0,35.71,0.0,0.0,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0037,Olive oil,1T.,14.0,125.0,0.0,14.0,3.0,0.0,0.0,"Fats, Oils, Shortenings",892.86,0.0,100.0,21.43,0.0,0.0,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0038,Safflower seed oil,1 T.,14.0,125.0,0.0,14.0,3.0,0.0,0.0,"Fats, Oils, Shortenings",892.86,0.0,100.0,21.43,0.0,0.0,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0039,French dressing,1 T.,15.0,60.0,0.05,6.0,2.0,0.0,2.0,"Fats, Oils, Shortenings",400.0,0.33,40.0,13.33,0.0,13.33,"vegan,vegetarian","lunch,dinner",14.3,high,"Fats, Oils & Nuts"
+F0040,Thousand Island sauce,1 T.,15.0,75.0,0.05,8.0,3.0,0.0,1.0,"Fats, Oils, Shortenings",500.0,0.33,53.33,20.0,0.0,6.67,"vegan,vegetarian,low-carb","lunch,dinner",0.0,high,"Fats, Oils & Nuts"
+F0041,Bacon,2 slices,16.0,95.0,4.0,8.0,7.0,0.0,1.0,"Meat, Poultry",593.75,25.0,50.0,43.75,0.0,6.25,"high-protein,low-carb","lunch,dinner",10.5,high,Protein (Meat/Fish)
+F0042,Beef,3 oz.,85.0,245.0,23.0,16.0,15.0,0.0,0.0,"Meat, Poultry",288.24,27.06,18.82,17.65,0.0,0.0,"high-protein,low-carb","lunch,dinner",39.4,high,Protein (Meat/Fish)
+F0043,Hamburger,3 oz.,85.0,245.0,21.0,17.0,15.0,0.0,0.0,"Meat, Poultry",288.24,24.71,20.0,17.65,0.0,0.0,"high-protein,low-carb","lunch,dinner",37.5,high,Protein (Meat/Fish)
+F0044,Ground lean,3 oz.,85.0,185.0,24.0,10.0,9.0,0.0,0.0,"Meat, Poultry",217.65,28.24,11.76,10.59,0.0,0.0,"high-protein,low-carb","lunch,dinner",54.5,medium,Protein (Meat/Fish)
+F0045,Roast beef,3 oz.,85.0,390.0,16.0,36.0,35.0,0.0,0.0,"Meat, Poultry",458.82,18.82,42.35,41.18,0.0,0.0,"high-protein,low-carb","lunch,dinner",16.4,high,Protein (Meat/Fish)
+F0046,Steak,3 oz.,85.0,330.0,20.0,27.0,25.0,0.0,0.0,"Meat, Poultry",388.24,23.53,31.76,29.41,0.0,0.0,"high-protein,low-carb","lunch,dinner",25.8,high,Protein (Meat/Fish)
+F0047,"Steak, lean, as round",3 oz.,85.0,220.0,24.0,12.0,11.0,0.0,0.0,"Meat, Poultry",258.82,28.24,14.12,12.94,0.0,0.0,"high-protein,low-carb","lunch,dinner",48.4,high,Protein (Meat/Fish)
+F0048,Corned beef,3 oz.,85.0,185.0,22.0,10.0,9.0,0.0,0.0,"Meat, Poultry",217.65,25.88,11.76,10.59,0.0,0.0,"high-protein,low-carb","lunch,dinner",52.6,medium,Protein (Meat/Fish)
+F0049,Corned beef hash canned,3 oz.,85.0,120.0,12.0,8.0,7.0,0.05,6.0,"Meat, Poultry",141.18,14.12,9.41,8.24,0.06,7.06,low-carb,"lunch,dinner",51.5,medium,Protein (Meat/Fish)
+F0050,Corned beef hash Dried,2 oz.,56.0,115.0,19.0,4.0,4.0,0.0,0.0,"Meat, Poultry",205.36,33.93,7.14,7.14,0.0,0.0,"high-protein,low-carb","lunch,dinner",61.0,medium,Protein (Meat/Fish)
+F0051,Pot-pie,1 pie,227.0,480.0,18.0,28.0,25.0,0.05,32.0,"Meat, Poultry",211.45,7.93,12.33,11.01,0.02,14.1,general,"lunch,dinner",38.2,medium,Protein (Meat/Fish)
+F0052,Corned beef hash Stew,1 cup,235.0,185.0,15.0,10.0,9.0,0.05,15.0,"Meat, Poultry",78.72,6.38,4.26,3.83,0.02,6.38,"low-carb,low-calorie","lunch,dinner",50.5,low,Protein (Meat/Fish)
+F0053,chicken,3 oz.,85.0,185.0,23.0,9.0,7.0,0.0,0.0,"Meat, Poultry",217.65,27.06,10.59,8.24,0.0,0.0,"high-protein,low-carb","lunch,dinner",56.3,medium,Protein (Meat/Fish)
+F0054,"Fried, breast or leg and thigh chicken",3 oz.,85.0,245.0,25.0,15.0,11.0,0.0,0.0,"Meat, Poultry",288.24,29.41,17.65,12.94,0.0,0.0,"high-protein,low-carb","lunch,dinner",46.9,high,Protein (Meat/Fish)
+F0055,Roasted chicken,3 1/2 oz.,100.0,290.0,25.0,20.0,16.0,0.0,0.0,"Meat, Poultry",290.0,25.0,20.0,16.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",39.6,high,Protein (Meat/Fish)
+F0056,"Chicken livers, fried",3 med.,100.0,140.0,22.0,14.0,12.0,0.0,2.3,"Meat, Poultry",140.0,22.0,14.0,12.0,0.0,2.3,"high-protein,low-carb","lunch,dinner",53.2,medium,Protein (Meat/Fish)
+F0057,"Duck, domestic",3 1/2 oz.,100.0,370.0,16.0,28.0,0.0,0.0,0.0,"Meat, Poultry",370.0,16.0,28.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",45.2,high,Protein (Meat/Fish)
+F0058,"Lamb, chop, broiled",4 oz.,115.0,480.0,24.0,35.0,33.0,0.0,0.0,"Meat, Poultry",417.39,20.87,30.43,28.7,0.0,0.0,"high-protein,low-carb","lunch,dinner",21.3,high,Protein (Meat/Fish)
+F0059,Leg roasted,3 oz.,86.0,314.0,20.0,14.0,14.0,0.0,0.0,"Meat, Poultry",365.12,23.26,16.28,16.28,0.0,0.0,"high-protein,low-carb","lunch,dinner",31.9,high,Protein (Meat/Fish)
+F0060,"Shoulder, braised",3 oz.,85.0,285.0,18.0,23.0,21.0,0.0,0.0,"Meat, Poultry",335.29,21.18,27.06,24.71,0.0,0.0,"high-protein,low-carb","lunch,dinner",28.1,high,Protein (Meat/Fish)
+F0061,"Pork, chop, 1 thick",3 1/2 oz.,100.0,260.0,16.0,21.0,18.0,0.0,0.0,"Meat, Poultry",260.0,16.0,21.0,18.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",32.4,high,Protein (Meat/Fish)
+F0062,Ham pan-broiled,3 oz.,85.0,290.0,16.0,22.0,19.0,0.0,0.0,"Meat, Poultry",341.18,18.82,25.88,22.35,0.0,0.0,"high-protein,low-carb","lunch,dinner",25.8,high,Protein (Meat/Fish)
+F0063,"Ham, as ",2 oz.,57.0,170.0,13.0,13.0,11.0,0.0,0.0,"Meat, Poultry",298.25,22.81,22.81,19.3,0.0,0.0,"high-protein,low-carb","lunch,dinner",33.2,high,Protein (Meat/Fish)
+F0064,"Ham, canned, spiced",2 oz.,57.0,165.0,8.0,14.0,12.0,0.0,1.0,"Meat, Poultry",289.47,14.04,24.56,21.05,0.0,1.75,low-carb,"lunch,dinner",26.1,high,Protein (Meat/Fish)
+F0065,Pork roast,3 oz.,85.0,310.0,21.0,24.0,21.0,0.0,0.0,"Meat, Poultry",364.71,24.71,28.24,24.71,0.0,0.0,"high-protein,low-carb","lunch,dinner",28.6,high,Protein (Meat/Fish)
+F0066,Pork sausage,3 1/2 oz.,100.0,475.0,18.0,44.0,40.0,0.0,0.0,"Meat, Poultry",475.0,18.0,44.0,40.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",14.4,high,Protein (Meat/Fish)
+F0067,Turkey,3 1/2 oz.,100.0,265.0,27.0,15.0,0.0,0.0,0.0,"Meat, Poultry",265.0,27.0,15.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",62.4,high,Protein (Meat/Fish)
+F0068,Veal,3 oz.,85.0,185.0,23.0,9.0,8.0,0.0,0.0,"Meat, Poultry",217.65,27.06,10.59,9.41,0.0,0.0,"high-protein,low-carb","lunch,dinner",54.9,medium,Protein (Meat/Fish)
+F0069,Roast,3 oz.,85.0,305.0,13.0,14.0,13.0,0.0,0.0,"Meat, Poultry",358.82,15.29,16.47,15.29,0.0,0.0,"high-protein,low-carb","lunch,dinner",27.2,high,Protein (Meat/Fish)
+F0070,Clams,3 oz.,85.0,87.0,12.0,1.0,0.0,0.0,2.0,"Fish, Seafood",102.35,14.12,1.18,0.0,0.0,2.35,"low-carb,low-fat","lunch,dinner",61.3,medium,Protein (Meat/Fish)
+F0071,Cod,3 1/2 oz.,100.0,170.0,28.0,5.0,0.0,0.0,0.0,"Fish, Seafood",170.0,28.0,5.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",70.8,medium,Protein (Meat/Fish)
+F0072,Crab meat,3 oz.,85.0,90.0,14.0,2.0,0.0,0.0,1.0,"Fish, Seafood",105.88,16.47,2.35,0.0,0.0,1.18,"high-protein,low-carb,low-fat","lunch,dinner",63.2,medium,Protein (Meat/Fish)
+F0073,Fish sticks fried,5,112.0,200.0,19.0,10.0,5.0,0.0,8.0,"Fish, Seafood",178.57,16.96,8.93,4.46,0.0,7.14,"high-protein,low-carb","lunch,dinner",55.9,medium,Protein (Meat/Fish)
+F0074,Flounder,3 1/2 oz.,100.0,200.0,30.0,8.0,0.0,0.0,0.0,"Fish, Seafood",200.0,30.0,8.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",70.0,medium,Protein (Meat/Fish)
+F0075,Haddock,3 oz.,85.0,135.0,16.0,5.0,4.0,0.0,6.0,"Fish, Seafood",158.82,18.82,5.88,4.71,0.0,7.06,"high-protein,low-carb","lunch,dinner",58.7,medium,Protein (Meat/Fish)
+F0076,Halibut,3 1/2 oz.,100.0,182.0,26.0,8.0,0.0,0.0,0.0,"Fish, Seafood",182.0,26.0,8.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",68.2,medium,Protein (Meat/Fish)
+F0077,Herring,1 small,100.0,211.0,22.0,13.0,0.0,0.0,0.0,"Fish, Seafood",211.0,22.0,13.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",62.7,medium,Protein (Meat/Fish)
+F0078,Lobster,aver.,100.0,92.0,18.0,1.0,0.0,0.0,0.05,"Fish, Seafood",92.0,18.0,1.0,0.0,0.0,0.05,"high-protein,low-carb,low-fat,low-calorie","lunch,dinner",64.4,low,Protein (Meat/Fish)
+F0079,Mackerel,3 oz.,85.0,155.0,18.0,9.0,0.0,,0.0,"Fish, Seafood",182.35,21.18,10.59,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",64.4,medium,Protein (Meat/Fish)
+F0080,Oyster stew,1 cup,85.0,125.0,19.0,6.0,1.0,0.0,0.0,"Fish, Seafood",147.06,22.35,7.06,1.18,0.0,0.0,"high-protein,low-carb","lunch,dinner",66.5,medium,Protein (Meat/Fish)
+F0081,Salmon,3 oz.,85.0,120.0,17.0,5.0,1.0,0.0,0.0,"Fish, Seafood",141.18,20.0,5.88,1.18,0.0,0.0,"high-protein,low-carb","lunch,dinner",64.6,medium,Protein (Meat/Fish)
+F0082,Sardines,3 oz.,85.0,180.0,22.0,9.0,4.0,0.0,0.0,"Fish, Seafood",211.76,25.88,10.59,4.71,0.0,0.0,"high-protein,low-carb","lunch,dinner",60.1,medium,Protein (Meat/Fish)
+F0083,Scallops,3 1/2 oz.,100.0,104.0,18.0,8.0,0.0,0.0,10.0,"Fish, Seafood",104.0,18.0,8.0,0.0,0.0,10.0,"high-protein,low-carb","lunch,dinner",64.4,medium,Protein (Meat/Fish)
+F0084,Shad,3 oz.,85.0,170.0,20.0,10.0,0.0,0.0,0.0,"Fish, Seafood",200.0,23.53,11.76,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",64.8,medium,Protein (Meat/Fish)
+F0085,Shrimp,3 oz.,85.0,110.0,23.0,1.0,0.0,0.0,0.0,"Fish, Seafood",129.41,27.06,1.18,0.0,0.0,0.0,"high-protein,low-carb,low-fat","lunch,dinner",71.6,medium,Protein (Meat/Fish)
+F0086,Swordfish,1 steak,100.0,180.0,27.0,6.0,0.0,0.0,0.0,"Fish, Seafood",180.0,27.0,6.0,0.0,0.0,0.0,"high-protein,low-carb","lunch,dinner",69.2,medium,Protein (Meat/Fish)
+F0087,Tuna,3 oz.,85.0,170.0,25.0,7.0,3.0,0.0,0.0,"Fish, Seafood",200.0,29.41,8.24,3.53,0.0,0.0,"high-protein,low-carb","lunch,dinner",65.3,medium,Protein (Meat/Fish)
+F0088,Asparagus,6 spears,96.0,18.0,1.0,0.05,0.05,0.5,3.0,Vegetables A-E,18.75,1.04,0.05,0.05,0.52,3.12,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.6,low,Vegetables
+F0089,Beans,1 cup,125.0,25.0,1.0,0.05,0.05,0.8,6.0,Vegetables A-E,20.0,0.8,0.04,0.04,0.64,4.8,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.6,low,Vegetables
+F0090,Lima,1 cup,160.0,140.0,8.0,0.05,0.05,3.0,24.0,Vegetables A-E,87.5,5.0,0.03,0.03,1.88,15.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",56.8,low,Vegetables
+F0091,"Lima, dry, cooked",1 cup,192.0,260.0,16.0,0.05,0.05,2.0,48.0,Vegetables A-E,135.42,8.33,0.03,0.03,1.04,25.0,"vegan,vegetarian,low-fat","lunch,dinner",58.2,medium,Vegetables
+F0092,"Navy, baked with pork",3/4 cup,200.0,250.0,11.0,6.0,6.0,2.0,37.0,Vegetables A-E,125.0,5.5,3.0,3.0,1.0,18.5,low-fat,"lunch,dinner",52.3,medium,Vegetables
+F0093,Red kidney,1 cup,260.0,230.0,15.0,1.0,0.0,2.5,42.0,Vegetables A-E,88.46,5.77,0.38,0.0,0.96,16.15,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",56.1,low,Vegetables
+F0094,Bean sprouts,1 cup,50.0,17.0,1.0,0.05,0.0,0.3,3.0,Vegetables A-E,34.0,2.0,0.1,0.0,0.6,6.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.5,low,Vegetables
+F0095,Beet greens,1 cup,100.0,27.0,2.0,0.05,0.0,1.4,6.0,Vegetables A-E,27.0,2.0,0.05,0.0,1.4,6.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.7,low,Vegetables
+F0096,Broccoli,1 cup,150.0,45.0,5.0,0.05,0.0,1.9,8.0,Vegetables A-E,30.0,3.33,0.03,0.0,1.27,5.33,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",54.6,low,Vegetables
+F0097,Brussels sprouts,1 cup,130.0,60.0,6.0,0.05,0.0,1.7,12.0,Vegetables A-E,46.15,4.62,0.04,0.0,1.31,9.23,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",55.7,low,Vegetables
+F0098,Sauerkraut,1 cup,150.0,32.0,1.0,0.05,0.0,1.2,7.0,Vegetables A-E,21.33,0.67,0.03,0.0,0.8,4.67,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.7,low,Vegetables
+F0099,Steamed cabbage,1 cup,170.0,40.0,2.0,0.05,0.0,1.3,9.0,Vegetables A-E,23.53,1.18,0.03,0.0,0.76,5.29,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.1,low,Vegetables
+F0100,Carrots,1 cup,150.0,45.0,1.0,0.05,0.0,0.9,10.0,Vegetables A-E,30.0,0.67,0.03,0.0,0.6,6.67,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.4,low,Vegetables
+F0101,"Raw, grated",1 cup,110.0,45.0,1.0,0.05,0.0,1.2,10.0,Vegetables A-E,40.91,0.91,0.05,0.0,1.09,9.09,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.4,low,Vegetables
+F0102,"Strips, from raw",1 mad.,50.0,20.0,0.05,0.05,0.0,0.5,5.0,Vegetables A-E,40.0,0.1,0.1,0.0,1.0,10.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.6,low,Vegetables
+F0103,Cauliflower,1 cup,120.0,30.0,3.0,0.05,0.0,1.0,6.0,Vegetables A-E,25.0,2.5,0.04,0.0,0.83,5.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.2,low,Vegetables
+F0104,Celery,1 cup,100.0,20.0,1.0,0.05,0.0,1.0,4.0,Vegetables A-E,20.0,1.0,0.05,0.0,1.0,4.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.3,low,Vegetables
+F0105,Stalk raw,1 large,40.0,5.0,1.0,0.05,0.0,0.3,1.0,Vegetables A-E,12.5,2.5,0.12,0.0,0.75,2.5,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.1,low,Vegetables
+F0106,Chard steamed,1 cup,150.0,30.0,2.0,0.05,0.0,1.4,7.0,Vegetables A-E,20.0,1.33,0.03,0.0,0.93,4.67,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.5,low,Vegetables
+F0107,Collards,1 cup,150.0,51.0,5.0,0.05,0.0,2.0,8.0,Vegetables A-E,34.0,3.33,0.03,0.0,1.33,5.33,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",54.7,low,Vegetables
+F0108,Corn,1 ear,100.0,92.0,3.0,1.0,0.05,0.8,21.0,Vegetables A-E,92.0,3.0,1.0,0.05,0.8,21.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",53.5,low,Vegetables
+F0109,cooked or canned,1 cup,200.0,170.0,5.0,0.05,0.0,1.6,41.0,Vegetables A-E,85.0,2.5,0.02,0.0,0.8,20.5,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",53.2,low,Vegetables
+F0110,Cucumbers,8,50.0,6.0,0.05,0.0,0.0,0.2,1.0,Vegetables A-E,12.0,0.1,0.0,0.0,0.4,2.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.7,low,Vegetables
+F0111,Dandelion greens,1 cup,180.0,80.0,5.0,1.0,0.0,3.2,16.0,Vegetables A-E,44.44,2.78,0.56,0.0,1.78,8.89,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",54.9,low,Vegetables
+F0112,Eggplant,1 cup,180.0,30.0,2.0,0.05,0.0,1.0,9.0,Vegetables A-E,16.67,1.11,0.03,0.0,0.56,5.0,"low-carb,low-fat,low-calorie","lunch,dinner",51.7,low,Vegetables
+F0113,Endive,2 oz.,57.0,10.0,1.0,0.05,0.0,0.6,2.0,Vegetables A-E,17.54,1.75,0.09,0.0,1.05,3.51,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.0,low,Vegetables
+F0114,Kale,1 cup,110.0,45.0,4.0,1.0,0.0,0.9,8.0,Vegetables F-P,40.91,3.64,0.91,0.0,0.82,7.27,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",54.1,low,Vegetables
+F0115,Kohlrabi,1 cup,140.0,40.0,2.0,0.05,0.0,1.5,9.0,Vegetables F-P,28.57,1.43,0.04,0.0,1.07,6.43,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.7,low,Vegetables
+F0116,"Lambs quarters, steamed",1 cup,150.0,48.0,5.0,0.05,0.0,3.2,7.0,Vegetables F-P,32.0,3.33,0.03,0.0,2.13,4.67,"low-carb,low-fat,low-calorie","lunch,dinner",55.9,low,Vegetables
+F0117,Lentils,1 cup,200.0,212.0,15.0,0.05,0.0,2.4,38.0,Vegetables F-P,106.0,7.5,0.02,0.0,1.2,19.0,"vegan,vegetarian,low-fat","lunch,dinner",57.8,medium,Vegetables
+F0118,Lettuce,1/4 head,100.0,14.0,1.0,0.05,0.0,0.5,2.0,Vegetables F-P,14.0,1.0,0.05,0.0,0.5,2.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.5,low,Vegetables
+F0119,Iceberg,1/4 head,100.0,13.0,0.05,0.05,0.0,0.5,3.0,Vegetables F-P,13.0,0.05,0.05,0.0,0.5,3.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.8,low,Vegetables
+F0120,Mushrooms canned,4,120.0,12.0,2.0,0.05,0.0,0.05,4.0,Vegetables F-P,10.0,1.67,0.04,0.0,0.04,3.33,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.4,low,Vegetables
+F0121,Mustard greens,1,140.0,30.0,3.0,0.05,0.0,1.2,6.0,Vegetables F-P,21.43,2.14,0.04,0.0,0.86,4.29,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.0,low,Vegetables
+F0122,Okra,1 1/3 cups,100.0,32.0,1.0,0.05,0.0,1.0,7.0,Vegetables F-P,32.0,1.0,0.05,0.0,1.0,7.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.3,low,Vegetables
+F0123,Onions,1,210.0,80.0,2.0,0.05,0.0,1.6,18.0,Vegetables F-P,38.1,0.95,0.02,0.0,0.76,8.57,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.9,low,Vegetables
+F0124,"Raw, green",6 small,50.0,22.0,0.05,0.05,0.0,1.0,5.0,Vegetables F-P,44.0,0.1,0.1,0.0,2.0,10.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.1,low,Vegetables
+F0125,Parsley,2 T.,50.0,2.0,0.05,0.05,0.0,0.05,0.05,Vegetables F-P,4.0,0.1,0.1,0.0,0.1,0.1,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.2,low,Vegetables
+F0126,Parsnips,1 cup,155.0,95.0,2.0,1.0,0.0,3.0,22.0,Vegetables F-P,61.29,1.29,0.65,0.0,1.94,14.19,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",53.9,low,Vegetables
+F0127,Peas,1 cup,100.0,66.0,3.0,0.05,0.0,0.1,13.0,Vegetables F-P,66.0,3.0,0.05,0.0,0.1,13.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",52.5,low,Vegetables
+F0128,"Fresh, steamed peas",1 cup,100.0,70.0,5.0,0.05,0.0,2.2,12.0,Vegetables R-Z,70.0,5.0,0.05,0.0,2.2,12.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",57.3,low,Vegetables
+F0129,Split cooked peas,4 cups,100.0,115.0,8.0,0.05,0.0,0.4,21.0,Vegetables R-Z,115.0,8.0,0.05,0.0,0.4,21.0,"vegan,vegetarian,low-fat","lunch,dinner",57.0,medium,Vegetables
+F0130,heated peas,1 cup,100.0,53.0,3.0,0.05,0.0,1.0,10.0,Vegetables R-Z,53.0,3.0,0.05,0.0,1.0,10.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.9,low,Vegetables
+F0131,Peppers canned,1 pod,38.0,10.0,0.05,0.05,0.0,0.05,2.0,Vegetables R-Z,26.32,0.13,0.13,0.0,0.13,5.26,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.3,low,Vegetables
+F0132,"Peppers Raw, green, sweet",1 large,100.0,25.0,1.0,0.05,0.0,1.4,6.0,Vegetables R-Z,25.0,1.0,0.05,0.0,1.4,6.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.9,low,Vegetables
+F0133,Peppers with beef and crumbs,1 med.,150.0,255.0,19.0,9.0,8.0,1.0,24.0,Vegetables R-Z,170.0,12.67,6.0,5.33,0.67,16.0,general,"lunch,dinner",53.1,medium,Vegetables
+F0134,"Potatoes, baked",1 med.,100.0,100.0,2.0,0.05,0.0,0.5,22.0,Vegetables R-Z,100.0,2.0,0.05,0.0,0.5,22.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",52.4,medium,Vegetables
+F0135,Potatoes Mashed with milk and butter,1 cup,200.0,230.0,4.0,12.0,11.0,0.7,28.0,Vegetables R-Z,115.0,2.0,6.0,5.5,0.35,14.0,"vegan,vegetarian","lunch,dinner",45.5,medium,Vegetables
+F0136,"Potatoes, pan-tried",3/4 cup,100.0,268.0,4.0,14.0,6.0,0.4,33.0,Vegetables R-Z,268.0,4.0,14.0,6.0,0.4,33.0,"vegan,vegetarian","lunch,dinner",37.2,high,Vegetables
+F0137,Scalloped with cheese potatoes,3/4 cup,100.0,145.0,6.0,8.0,7.0,0.4,14.0,Vegetables R-Z,145.0,6.0,8.0,7.0,0.4,14.0,"vegan,vegetarian","lunch,dinner",47.0,medium,Vegetables
+F0138,Steamed potatoes before peeling,1 med.,100.0,80.0,2.0,0.05,0.0,0.4,19.0,Vegetables R-Z,80.0,2.0,0.05,0.0,0.4,19.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",52.2,low,Vegetables
+F0139,Potato chips,10,20.0,110.0,1.0,7.0,4.0,0.05,10.0,Vegetables R-Z,550.0,5.0,35.0,20.0,0.25,50.0,"vegan,vegetarian","lunch,dinner",0.0,high,Vegetables
+F0140,Radishes,5 small,50.0,10.0,0.05,0.0,0.0,0.3,2.0,Vegetables R-Z,20.0,0.1,0.0,0.0,0.6,4.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.0,low,Vegetables
+F0141,Rutabagas,4 cups,100.0,32.0,0.05,0.0,0.0,1.4,8.0,Vegetables R-Z,32.0,0.05,0.0,0.0,1.4,8.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.1,low,Vegetables
+F0142,Soybeans,1 cup,200.0,260.0,22.0,11.0,0.0,3.2,20.0,Vegetables R-Z,130.0,11.0,5.5,0.0,1.6,10.0,"vegan,vegetarian,low-carb","lunch,dinner",61.2,medium,Vegetables
+F0143,Spinach,1 cup,100.0,26.0,3.0,0.05,0.0,1.0,3.0,Vegetables R-Z,26.0,3.0,0.05,0.0,1.0,3.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",53.9,low,Vegetables
+F0144,Squash,1 cup,210.0,35.0,1.0,0.05,0.0,0.6,8.0,Vegetables R-Z,16.67,0.48,0.02,0.0,0.29,3.81,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.8,low,Vegetables
+F0145,"Winter, mashed",1 cup,200.0,95.0,4.0,0.05,0.0,2.6,23.0,Vegetables R-Z,47.5,2.0,0.02,0.0,1.3,11.5,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",53.6,low,Vegetables
+F0146,Sweet potatoes,1 med.,110.0,155.0,2.0,1.0,0.0,1.0,36.0,Vegetables R-Z,140.91,1.82,0.91,0.0,0.91,32.73,"vegan,vegetarian,low-fat","lunch,dinner",52.8,medium,Vegetables
+F0147,Candied,1 med.,175.0,235.0,2.0,6.0,5.0,1.5,80.0,Vegetables R-Z,134.29,1.14,3.43,2.86,0.86,45.71,"vegan,vegetarian","lunch,dinner",48.8,medium,Vegetables
+F0148,Tomatoes,1 cup,240.0,50.0,2.0,0.05,0.0,1.0,9.0,Vegetables R-Z,20.83,0.83,0.02,0.0,0.42,3.75,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.3,low,Vegetables
+F0149,"Raw, 2 by 2 1/2",1 med.,150.0,30.0,1.0,0.05,0.0,0.6,6.0,Vegetables R-Z,20.0,0.67,0.03,0.0,0.4,4.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.1,low,Vegetables
+F0150,Tomato juice,1 cup,240.0,50.0,2.0,0.05,0.0,0.6,10.0,Vegetables R-Z,20.83,0.83,0.02,0.0,0.25,4.17,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.0,low,Vegetables
+F0151,Tomato catsup,1 T.,17.0,15.0,0.05,0.05,0.0,0.05,4.0,Vegetables R-Z,88.24,0.29,0.29,0.0,0.29,23.53,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",50.7,low,Vegetables
+F0152,Turnip greens,1 cup,145.0,45.0,4.0,1.0,0.0,1.8,8.0,Vegetables R-Z,31.03,2.76,0.69,0.0,1.24,5.52,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",54.1,low,Vegetables
+F0153,"Turnips, steamed",1 cup,155.0,40.0,1.0,0.05,0.0,1.8,9.0,Vegetables R-Z,25.81,0.65,0.03,0.0,1.16,5.81,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",52.3,low,Vegetables
+F0154,"Watercress stems, raw",1 cup,50.0,9.0,1.0,0.05,0.0,0.3,1.0,Fruits A-F,18.0,2.0,0.1,0.0,0.6,2.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",52.5,low,Fruits
+F0155,Apple juice canned,1 cup,250.0,125.0,0.05,0.0,0.0,0.0,34.0,Fruits A-F,50.0,0.02,0.0,0.0,0.0,13.6,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.0,low,Fruits
+F0156,Apple vinegar,1/3 cup,100.0,14.0,0.05,0.0,0.0,0.0,3.0,Fruits A-F,14.0,0.05,0.0,0.0,0.0,3.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",50.0,low,Fruits
+F0157,"Apples, raw",1 med,130.0,70.0,0.05,0.05,0.0,1.0,18.0,Fruits A-F,53.85,0.04,0.04,0.0,0.77,13.85,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.2,low,Fruits
+F0158,Stewed or canned,1 cup,240.0,100.0,0.05,0.05,0.0,2.0,26.0,Fruits A-F,41.67,0.02,0.02,0.0,0.83,10.83,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.3,low,Fruits
+F0159,Apricots,1 cup,250.0,220.0,2.0,0.05,0.0,1.0,57.0,Fruits A-F,88.0,0.8,0.02,0.0,0.4,22.8,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.2,low,Fruits
+F0160,"Dried, uncooked",1/2 cup,75.0,220.0,4.0,0.05,0.0,1.0,50.0,Fruits A-F,293.33,5.33,0.07,0.0,1.33,66.67,"vegan,vegetarian,low-fat","breakfast,snack",44.8,high,Fruits
+F0161,Fresh,3 med.,114.0,55.0,1.0,0.05,0.0,0.7,14.0,Fruits A-F,48.25,0.88,0.04,0.0,0.61,12.28,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.6,low,Fruits
+F0162,"Nectar, or juice",1 cup,250.0,140.0,1.0,0.05,0.0,2.0,36.0,Fruits A-F,56.0,0.4,0.02,0.0,0.8,14.4,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.5,low,Fruits
+F0163,Avocado,1/2 large,108.0,185.0,2.0,18.0,12.0,1.8,6.0,Fruits A-F,171.3,1.85,16.67,11.11,1.67,5.56,"vegan,vegetarian,low-carb","breakfast,snack",38.9,medium,Fruits
+F0164,Banana,1 med.,150.0,85.0,1.0,0.05,0.0,0.9,23.0,Fruits A-F,56.67,0.67,0.03,0.0,0.6,15.33,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.4,low,Fruits
+F0165,Blackberries,1 cup,144.0,85.0,2.0,1.0,0.0,6.6,19.0,Fruits A-F,59.03,1.39,0.69,0.0,4.58,13.19,"vegan,vegetarian,low-fat,low-calorie,high-fiber","breakfast,snack",58.0,low,Fruits
+F0166,Blueberries,1 cup,250.0,245.0,1.0,0.05,0.0,2.0,65.0,Fruits A-F,98.0,0.4,0.02,0.0,0.8,26.0,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.5,low,Fruits
+F0167,Cantaloupe,1/2 med.,380.0,40.0,1.0,0.05,0.0,2.2,9.0,Fruits A-F,10.53,0.26,0.01,0.0,0.58,2.37,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",51.1,low,Fruits
+F0168,Cherries,1 cup,257.0,100.0,2.0,1.0,0.0,2.0,26.0,Fruits A-F,38.91,0.78,0.39,0.0,0.78,10.12,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.8,low,Fruits
+F0169,"Fresh, raw",1 cup,114.0,65.0,1.0,0.05,0.0,0.8,15.0,Fruits A-F,57.02,0.88,0.04,0.0,0.7,13.16,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.8,low,Fruits
+F0170,Cranberry sauce sweetened,1 cup,277.0,530.0,0.05,0.05,0.0,1.2,142.0,Fruits A-F,191.34,0.02,0.02,0.0,0.43,51.26,"vegan,vegetarian,low-fat","breakfast,snack",47.4,medium,Fruits
+F0171,Dates,1 cup,178.0,505.0,4.0,0.05,0.0,3.6,134.0,Fruits A-F,283.71,2.25,0.03,0.0,2.02,75.28,"vegan,vegetarian,low-fat","breakfast,snack",44.1,high,Fruits
+F0172,Figs,2,42.0,120.0,2.0,0.05,0.0,1.9,30.0,Fruits A-F,285.71,4.76,0.12,0.0,4.52,71.43,"vegan,vegetarian,low-fat,high-fiber","breakfast,snack",49.7,high,Fruits
+F0173,"Fresh, raw figs",3 med.,114.0,90.0,2.0,0.05,0.0,1.0,22.0,Fruits A-F,78.95,1.75,0.04,0.0,0.88,19.3,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",52.7,low,Fruits
+F0174,figs Canned with syrup ,3,115.0,130.0,1.0,0.05,0.0,1.0,32.0,Fruits A-F,113.04,0.87,0.04,0.0,0.87,27.83,"vegan,vegetarian,low-fat","breakfast,snack",52.0,medium,Fruits
+F0175,"Fruit cocktail, canned",1 cup,256.0,195.0,1.0,0.05,0.0,0.5,50.0,Fruits A-F,76.17,0.39,0.02,0.0,0.2,19.53,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.6,low,Fruits
+F0176,Grapefruit sections,1 cup,250.0,170.0,1.0,0.05,0.0,0.5,44.0,Fruits G-P,68.0,0.4,0.02,0.0,0.2,17.6,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.6,low,Fruits
+F0177,"Grapefruit, fresh, 5"" diameter",1/2,285.0,50.0,1.0,0.05,0.05,1.0,14.0,Fruits G-P,17.54,0.35,0.02,0.02,0.35,4.91,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",50.8,low,Fruits
+F0178,Grapefruit juice,1 cup,250.0,100.0,1.0,0.05,0.0,1.0,24.0,Fruits G-P,40.0,0.4,0.02,0.0,0.4,9.6,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",50.9,low,Fruits
+F0179,Grapes,1 cup,153.0,70.0,1.0,0.05,0.0,0.8,16.0,Fruits G-P,45.75,0.65,0.03,0.0,0.52,10.46,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.3,low,Fruits
+F0180,"European, as Muscat, Tokay",1 cup,160.0,100.0,1.0,0.05,0.0,0.7,26.0,Fruits G-P,62.5,0.62,0.03,0.0,0.44,16.25,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.2,low,Fruits
+F0181,Grape juice,1 cup,250.0,160.0,1.0,0.05,0.0,0.05,42.0,Fruits G-P,64.0,0.4,0.02,0.0,0.02,16.8,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.4,low,Fruits
+F0182,Lemon juice,1/2 cup,125.0,30.0,0.05,0.05,0.0,0.05,10.0,Fruits G-P,24.0,0.04,0.04,0.0,0.04,8.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",50.1,low,Fruits
+F0183,Lemonade concentratefrozen,6-oz. can,220.0,430.0,0.05,0.05,0.0,0.05,112.0,Fruits G-P,195.45,0.02,0.02,0.0,0.02,50.91,"vegan,vegetarian,low-fat","breakfast,snack",46.4,medium,Fruits
+F0184,Limeade concentrate frozen,6-oz. can,218.0,405.0,0.05,0.05,0.0,0.05,108.0,Fruits G-P,185.78,0.02,0.02,0.0,0.02,49.54,"vegan,vegetarian,low-fat","breakfast,snack",47.2,medium,Fruits
+F0185,Olives large,10,65.0,72.0,1.0,10.0,9.0,0.8,3.0,Fruits G-P,110.77,1.54,15.38,13.85,1.23,4.62,"vegan,vegetarian,low-carb","breakfast,snack",36.5,medium,Fruits
+F0186,OlivesRipe,10,65.0,105.0,1.0,13.0,12.0,1.0,1.0,Fruits G-P,161.54,1.54,20.0,18.46,1.54,1.54,"vegan,vegetarian,low-carb","breakfast,snack",30.5,medium,Fruits
+F0187,"Oranges 3"" diameter",1 med.,180.0,60.0,2.0,0.05,0.05,1.0,16.0,Fruits G-P,33.33,1.11,0.03,0.03,0.56,8.89,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",51.7,low,Fruits
+F0188,Orange juice,8 oz. or,250.0,112.0,2.0,0.05,0.0,0.2,25.0,Fruits G-P,44.8,0.8,0.02,0.0,0.08,10.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",50.8,low,Fruits
+F0189,Frozen ,6-oz. can,210.0,330.0,2.0,0.05,0.05,0.4,78.0,Fruits G-P,157.14,0.95,0.02,0.02,0.19,37.14,"vegan,vegetarian,low-fat","breakfast,snack",50.4,medium,Fruits
+F0190,Papaya,1/2 med.,200.0,75.0,1.0,0.05,0.0,1.8,18.0,Fruits G-P,37.5,0.5,0.02,0.0,0.9,9.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",51.8,low,Fruits
+F0191,Peaches,1 cup,257.0,200.0,1.0,0.05,0.0,1.0,52.0,Fruits G-P,77.82,0.39,0.02,0.0,0.39,20.23,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.9,low,Fruits
+F0192,"Fresh, raw",1 med.,114.0,35.0,1.0,0.05,0.0,0.6,10.0,Fruits G-P,30.7,0.88,0.04,0.0,0.53,8.77,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",51.5,low,Fruits
+F0193,Pears,1 cup,255.0,195.0,1.0,0.05,0.0,2.0,50.0,Fruits G-P,76.47,0.39,0.02,0.0,0.78,19.61,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",51.5,low,Fruits
+F0194,"Raw, 3 by 2V",1 med.,182.0,100.0,1.0,1.0,0.0,2.0,25.0,Fruits G-P,54.95,0.55,0.55,0.0,1.1,13.74,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",52.1,low,Fruits
+F0195,Persimmons,1 med.,125.0,75.0,1.0,0.05,0.0,2.0,20.0,Fruits G-P,60.0,0.8,0.04,0.0,1.6,16.0,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",53.0,low,Fruits
+F0196,Pineapple,1 large slice,122.0,95.0,0.05,0.05,0.0,0.4,26.0,Fruits G-P,77.87,0.04,0.04,0.0,0.33,21.31,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.5,low,Fruits
+F0197,Pineapple Crushed,1 cup,260.0,205.0,1.0,0.05,0.0,0.7,55.0,Fruits G-P,78.85,0.38,0.02,0.0,0.27,21.15,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.7,low,Fruits
+F0198,Pineapple juice,1 cup,250.0,120.0,1.0,0.05,0.0,0.2,32.0,Fruits G-P,48.0,0.4,0.02,0.0,0.08,12.8,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.4,low,Fruits
+F0199,Plums,1 cup,256.0,185.0,1.0,0.05,0.0,0.7,50.0,Fruits G-P,72.27,0.39,0.02,0.0,0.27,19.53,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.7,low,Fruits
+F0200,"Raw, 2"" diameter",1,60.0,30.0,0.05,0.05,0.0,0.2,7.0,Fruits G-P,50.0,0.08,0.08,0.0,0.33,11.67,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.6,low,Fruits
+F0201,Prunes,1 cup,270.0,300.0,3.0,1.0,0.0,0.8,81.0,Fruits G-P,111.11,1.11,0.37,0.0,0.3,30.0,"vegan,vegetarian,low-fat","breakfast,snack",51.3,medium,Fruits
+F0202,Prune juice,1 cup,240.0,170.0,1.0,0.05,0.0,0.7,45.0,Fruits G-P,70.83,0.42,0.02,0.0,0.29,18.75,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",50.8,low,Fruits
+F0203,Raisins,1/2 cup,88.0,230.0,2.0,0.05,0.0,0.7,82.0,Fruits R-Z,261.36,2.27,0.06,0.0,0.8,93.18,"vegan,vegetarian,low-fat","breakfast,snack",44.1,high,Fruits
+F0204,Raspberries,1/2 cup,100.0,100.0,0.05,0.05,0.0,2.0,25.0,Fruits R-Z,100.0,0.05,0.05,0.0,2.0,25.0,"vegan,vegetarian,low-fat,low-calorie","breakfast,snack",53.0,medium,Fruits
+F0205,"Raw, red",3/4 cup,100.0,57.0,0.05,0.05,0.0,5.0,14.0,Fruits R-Z,57.0,0.05,0.05,0.0,5.0,14.0,"vegan,vegetarian,low-fat,low-calorie,high-fiber","breakfast,snack",57.5,low,Fruits
+F0206,Rhubarb sweetened,1 cup,270.0,385.0,1.0,0.05,0.0,1.9,98.0,Fruits R-Z,142.59,0.37,0.02,0.0,0.7,36.3,"vegan,vegetarian,low-fat","breakfast,snack",51.3,medium,Fruits
+F0207,Strawberries,1 cup,227.0,242.0,1.0,0.05,0.0,1.3,60.0,Fruits R-Z,106.61,0.44,0.02,0.0,0.57,26.43,"vegan,vegetarian,low-fat","breakfast,snack",51.2,medium,Fruits
+F0208,Raw,1 cup,149.0,54.0,0.05,0.05,0.0,1.9,12.0,Fruits R-Z,36.24,0.03,0.03,0.0,1.28,8.05,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",51.9,low,Fruits
+F0209,Tangerines,I med.,114.0,40.0,1.0,0.05,0.0,1.0,10.0,Fruits R-Z,35.09,0.88,0.04,0.0,0.88,8.77,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",52.0,low,Fruits
+F0210,Watermelon,1 wedge,925.0,120.0,2.0,1.0,0.0,3.6,29.0,Fruits R-Z,12.97,0.22,0.11,0.0,0.39,3.14,"vegan,vegetarian,low-carb,low-fat,low-calorie","breakfast,snack",50.8,low,Fruits
+F0211,Biscuits,1,38.0,130.0,3.0,4.0,3.0,0.05,18.0,"Breads, cereals, fastfood,grains",342.11,7.89,10.53,7.89,0.13,47.37,"vegan,vegetarian","breakfast,lunch",31.7,high,Grains & Starches
+F0212,"Bread, cracked wheat",1 slice,23.0,60.0,2.0,1.0,1.0,0.1,12.0,"Breads, cereals, fastfood,grains",260.87,8.7,4.35,4.35,0.43,52.17,"vegan,vegetarian","breakfast,lunch",43.5,high,Grains & Starches
+F0213,Rye,1 slice,23.0,55.0,2.0,1.0,1.0,0.1,12.0,"Breads, cereals, fastfood,grains",239.13,8.7,4.35,4.35,0.43,52.17,"vegan,vegetarian","breakfast,lunch",45.3,medium,Grains & Starches
+F0214,"White, 20 slices, or",1-lb. loaf,454.0,1225.0,39.0,15.0,12.0,9.0,229.0,"Breads, cereals, fastfood,grains",269.82,8.59,3.3,2.64,1.98,50.44,"vegan,vegetarian","breakfast,lunch",47.1,high,Grains & Starches
+F0215,Whole-wheat,1-lb. loaf,454.0,1100.0,48.0,14.0,10.0,67.5,216.0,"Breads, cereals, fastfood,grains",242.29,10.57,3.08,2.2,14.87,47.58,"vegan,vegetarian,high-fiber","breakfast,lunch",63.4,medium,Grains & Starches
+F0216,Whole-wheat,1 slice,23.0,55.0,2.0,1.0,0.0,0.31,11.0,"Breads, cereals, fastfood,grains",239.13,8.7,4.35,0.0,1.35,47.83,"vegan,vegetarian","breakfast,lunch",51.9,medium,Grains & Starches
+F0217,Corn bread ground meal,1 serving,50.0,100.0,3.0,4.0,2.0,0.3,15.0,"Breads, cereals, fastfood,grains",200.0,6.0,8.0,4.0,0.6,30.0,"vegan,vegetarian","breakfast,lunch",46.9,medium,Grains & Starches
+F0218,Cornflakes,1 cup,25.0,110.0,2.0,0.05,0.0,0.1,25.0,"Breads, cereals, fastfood,grains",440.0,8.0,0.2,0.0,0.4,100.0,"vegan,vegetarian,low-fat","breakfast,lunch",33.8,high,Grains & Starches
+F0219,Corn grits cooked,1 cup,242.0,120.0,8.0,0.05,0.0,0.2,27.0,"Breads, cereals, fastfood,grains",49.59,3.31,0.02,0.0,0.08,11.16,"vegan,vegetarian,low-fat,low-calorie","breakfast,lunch",52.8,low,Grains & Starches
+F0220,Corn meal,1 cup,118.0,360.0,9.0,4.0,2.0,1.6,74.0,"Breads, cereals, fastfood,grains",305.08,7.63,3.39,1.69,1.36,62.71,"vegan,vegetarian","breakfast,lunch",43.7,high,Grains & Starches
+F0221,Crackers,2 med.,14.0,55.0,1.0,1.0,0.0,0.05,10.0,"Breads, cereals, fastfood,grains",392.86,7.14,7.14,0.0,0.36,71.43,"vegan,vegetarian","breakfast,lunch",36.8,high,Grains & Starches
+F0222,"Soda, 2 1/2 square",2,11.0,45.0,1.0,1.0,0.0,0.05,8.0,"Breads, cereals, fastfood,grains",409.09,9.09,9.09,0.0,0.45,72.73,"vegan,vegetarian","breakfast,lunch",37.2,high,Grains & Starches
+F0223,Farina,1 cup,238.0,105.0,3.0,0.05,0.0,8.0,22.0,"Breads, cereals, fastfood,grains",44.12,1.26,0.02,0.0,3.36,9.24,"vegan,vegetarian,low-carb,low-fat,low-calorie,high-fiber","breakfast,lunch",56.0,low,Grains & Starches
+F0224,Flour,1 cup,110.0,460.0,39.0,22.0,0.0,2.9,33.0,"Breads, cereals, fastfood,grains",418.18,35.45,20.0,0.0,2.64,30.0,"vegan,vegetarian,high-protein","breakfast,lunch",56.5,high,Grains & Starches
+F0225,Wheat (all purpose),1 cup,110.0,400.0,12.0,1.0,0.0,0.3,84.0,"Breads, cereals, fastfood,grains",363.64,10.91,0.91,0.0,0.27,76.36,"vegan,vegetarian,low-fat","breakfast,lunch",42.0,high,Grains & Starches
+F0226,Wheat (whole),1 cup,120.0,390.0,13.0,2.0,0.0,2.8,79.0,"Breads, cereals, fastfood,grains",325.0,10.83,1.67,0.0,2.33,65.83,"vegan,vegetarian,low-fat","breakfast,lunch",48.2,high,Grains & Starches
+F0227,Macaroni,1 cup,140.0,155.0,5.0,1.0,0.0,0.1,32.0,"Breads, cereals, fastfood,grains",110.71,3.57,0.71,0.0,0.07,22.86,"vegan,vegetarian,low-fat","breakfast,lunch",53.0,medium,Grains & Starches
+F0228,Baked with cheese,1 cup,220.0,475.0,18.0,25.0,24.0,0.05,44.0,"Breads, cereals, fastfood,grains",215.91,8.18,11.36,10.91,0.02,20.0,"vegan,vegetarian","breakfast,lunch",38.2,medium,Grains & Starches
+F0229,Muffins,1,48.0,135.0,4.0,5.0,4.0,0.05,19.0,"Breads, cereals, fastfood,grains",281.25,8.33,10.42,8.33,0.1,39.58,"vegan,vegetarian","breakfast,lunch",36.3,high,Grains & Starches
+F0230,Noodles,1 cup,160.0,200.0,7.0,2.0,2.0,0.1,37.0,"Breads, cereals, fastfood,grains",125.0,4.38,1.25,1.25,0.06,23.12,"vegan,vegetarian,low-fat","breakfast,lunch",52.1,medium,Grains & Starches
+F0231,Oatmeal,1 cup,236.0,150.0,5.0,3.0,2.0,4.6,26.0,"Breads, cereals, fastfood,grains",63.56,2.12,1.27,0.85,1.95,11.02,"vegan,vegetarian,low-fat,low-calorie","breakfast,lunch",53.6,low,Grains & Starches
+F0232,"Pancakes 4"" diam.",4,108.0,250.0,7.0,9.0,0.0,0.1,28.0,"Breads, cereals, fastfood,grains",231.48,6.48,8.33,0.0,0.09,25.93,"vegan,vegetarian","breakfast,lunch",48.8,medium,Grains & Starches
+F0233,"Wheat, pancakes 4"" diam.",4,108.0,250.0,7.0,9.0,0.0,0.1,28.0,"Breads, cereals, fastfood,grains",231.48,6.48,8.33,0.0,0.09,25.93,"vegan,vegetarian","breakfast,lunch",48.8,medium,Grains & Starches
+F0234,"Pizza 14"" diam.",1 section,75.0,180.0,8.0,6.0,5.0,0.05,23.0,"Breads, cereals, fastfood,grains",240.0,10.67,8.0,6.67,0.07,30.67,"vegan,vegetarian","breakfast,lunch",43.4,medium,Grains & Starches
+F0235,Popcorn salted,2 cups,28.0,152.0,3.0,7.0,2.0,0.5,20.0,"Breads, cereals, fastfood,grains",542.86,10.71,25.0,7.14,1.79,71.43,"vegan,vegetarian","breakfast,lunch",21.3,high,Grains & Starches
+F0236,Puffed rice,1 cup,14.0,55.0,0.05,0.05,0.0,0.05,12.0,"Breads, cereals, fastfood,grains",392.86,0.36,0.36,0.0,0.36,85.71,"vegan,vegetarian,low-fat","breakfast,lunch",31.4,high,Grains & Starches
+F0237,Puffed wheat presweetened,1 cup,28.0,105.0,1.0,0.05,0.0,0.6,26.0,"Breads, cereals, fastfood,grains",375.0,3.57,0.18,0.0,2.14,92.86,"vegan,vegetarian,low-fat","breakfast,lunch",38.1,high,Grains & Starches
+F0238,Rice,1 cup,208.0,748.0,15.0,3.0,0.0,1.2,154.0,"Breads, cereals, fastfood,grains",359.62,7.21,1.44,0.0,0.58,74.04,"vegan,vegetarian,low-fat","breakfast,lunch",39.9,high,Grains & Starches
+F0239,Converted,1 cup,187.0,677.0,14.0,0.05,0.0,0.4,142.0,"Breads, cereals, fastfood,grains",362.03,7.49,0.03,0.0,0.21,75.94,"vegan,vegetarian,low-fat","breakfast,lunch",39.3,high,Grains & Starches
+F0240,White,1 cup,191.0,692.0,14.0,0.05,0.0,0.3,150.0,"Breads, cereals, fastfood,grains",362.3,7.33,0.03,0.0,0.16,78.53,"vegan,vegetarian,low-fat","breakfast,lunch",39.1,high,Grains & Starches
+F0241,Rice flakes,1 cup,30.0,115.0,2.0,0.05,0.0,0.1,26.0,"Breads, cereals, fastfood,grains",383.33,6.67,0.17,0.0,0.33,86.67,"vegan,vegetarian,low-fat","breakfast,lunch",37.2,high,Grains & Starches
+F0242,Rice polish,1/2 cup,50.0,132.0,6.0,6.0,0.0,1.2,28.0,"Breads, cereals, fastfood,grains",264.0,12.0,12.0,0.0,2.4,56.0,"vegan,vegetarian","breakfast,lunch",54.1,high,Grains & Starches
+F0243,Rolls,1 large,50.0,411.0,3.0,12.0,11.0,0.1,23.0,"Breads, cereals, fastfood,grains",822.0,6.0,24.0,22.0,0.2,46.0,"vegan,vegetarian","breakfast,lunch",0.0,high,Grains & Starches
+F0244,of refined flour,1,38.0,115.0,3.0,2.0,2.0,0.05,20.0,"Breads, cereals, fastfood,grains",302.63,7.89,5.26,5.26,0.13,52.63,"vegan,vegetarian","breakfast,lunch",38.0,high,Grains & Starches
+F0245,whole-wheat,1,40.0,102.0,4.0,1.0,0.0,0.1,20.0,"Breads, cereals, fastfood,grains",255.0,10.0,2.5,0.0,0.25,50.0,"vegan,vegetarian,low-fat","breakfast,lunch",50.0,high,Grains & Starches
+F0246,Spaghetti with meat sauce,1 cup,250.0,285.0,13.0,10.0,6.0,0.5,35.0,"Breads, cereals, fastfood,grains",114.0,5.2,4.0,2.4,0.2,14.0,"vegan,vegetarian","breakfast,lunch",51.6,medium,Grains & Starches
+F0247,with tomatoes and cheese,1 cup,250.0,210.0,6.0,5.0,3.0,0.5,36.0,"Breads, cereals, fastfood,grains",84.0,2.4,2.0,1.2,0.2,14.4,"vegan,vegetarian,low-fat,low-calorie","breakfast,lunch",50.8,low,Grains & Starches
+F0248,Spanish rice,1 cup,250.0,217.0,4.0,4.0,0.0,1.2,40.0,"Breads, cereals, fastfood,grains",86.8,1.6,1.6,0.0,0.48,16.0,"vegan,vegetarian,low-fat,low-calorie","breakfast,lunch",52.0,low,Grains & Starches
+F0249,Shredded wheat biscuit,1,28.0,100.0,3.0,1.0,0.0,0.7,23.0,"Breads, cereals, fastfood,grains",357.14,10.71,3.57,0.0,2.5,82.14,"vegan,vegetarian","breakfast,lunch",45.7,high,Grains & Starches
+F0250,Waffles,1,75.0,240.0,8.0,9.0,1.0,0.1,30.0,"Breads, cereals, fastfood,grains",320.0,10.67,12.0,1.33,0.13,40.0,"vegan,vegetarian","breakfast,lunch",43.5,high,Grains & Starches
+F0251,Wheat germ,1 cup,68.0,245.0,17.0,7.0,3.0,2.5,34.0,"Breads, cereals, fastfood,grains",360.29,25.0,10.29,4.41,3.68,50.0,"vegan,vegetarian,high-protein,high-fiber","breakfast,lunch",53.4,high,Grains & Starches
+F0252,Wheat-germ cereal toasted,1 cup,65.0,260.0,20.0,7.0,3.0,2.5,36.0,"Breads, cereals, fastfood,grains",400.0,30.77,10.77,4.62,3.85,55.38,"vegan,vegetarian,high-protein,high-fiber","breakfast,lunch",54.2,high,Grains & Starches
+F0253,Wheat meal cereal unrefined,3/4 cup,30.0,103.0,4.0,1.0,0.0,0.7,25.0,"Breads, cereals, fastfood,grains",343.33,13.33,3.33,0.0,2.33,83.33,"vegan,vegetarian","breakfast,lunch",48.7,high,Grains & Starches
+F0254,"Wheat, cooked",3/4 cup,200.0,275.0,12.0,1.0,0.0,4.4,35.0,"Breads, cereals, fastfood,grains",137.5,6.0,0.5,0.0,2.2,17.5,"vegan,vegetarian,low-fat","breakfast,lunch",58.1,medium,Grains & Starches
+F0255,Bean soups,1 cup,250.0,190.0,8.0,5.0,4.0,0.6,30.0,Soups,76.0,3.2,2.0,1.6,0.24,12.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",51.0,low,Beverages & Soups
+F0256,Beef soup,1 cup,250.0,100.0,6.0,4.0,4.0,0.5,11.0,Soups,40.0,2.4,1.6,1.6,0.2,4.4,"low-carb,low-fat,low-calorie","lunch,dinner",50.3,low,Beverages & Soups
+F0257,Bouillon,1 cup,240.0,24.0,5.0,0.0,0.0,0.0,0.0,Soups,10.0,2.08,0.0,0.0,0.0,0.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.7,low,Beverages & Soups
+F0258,chicken soup,1 cup,250.0,75.0,4.0,2.0,2.0,0.0,10.0,Soups,30.0,1.6,0.8,0.8,0.0,4.0,"low-carb,low-fat,low-calorie","lunch,dinner",50.3,low,Beverages & Soups
+F0259,Cream soups,1 cup,255.0,200.0,7.0,12.0,11.0,1.2,18.0,Soups,78.43,2.75,4.71,4.31,0.47,7.06,"vegan,vegetarian,low-carb,low-calorie","lunch,dinner",47.7,low,Beverages & Soups
+F0260,Noodle,1 cup,250.0,115.0,6.0,4.0,3.0,0.2,13.0,Soups,46.0,2.4,1.6,1.2,0.08,5.2,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.6,low,Beverages & Soups
+F0261,Split-pea soup,1 cup,250.0,147.0,8.0,3.0,3.0,0.5,25.0,Soups,58.8,3.2,1.2,1.2,0.2,10.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",51.4,low,Beverages & Soups
+F0262,Tomato soup,1 cup,245.0,175.0,6.0,7.0,6.0,0.5,22.0,Soups,71.43,2.45,2.86,2.45,0.2,8.98,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",49.3,low,Beverages & Soups
+F0263,Vegetable,1 cup,250.0,80.0,4.0,2.0,2.0,0.0,14.0,Soups,32.0,1.6,0.8,0.8,0.0,5.6,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.3,low,Beverages & Soups
+F0264,Apple betty,1 serving,100.0,150.0,1.0,4.0,0.0,0.5,29.0,"Desserts, sweets",150.0,1.0,4.0,0.0,0.5,29.0,"vegan,vegetarian","lunch,dinner",51.5,medium,Sweets & Desserts
+F0265,Bread pudding,3/4 cup,200.0,374.0,11.0,12.0,11.0,0.2,56.0,"Desserts, sweets",187.0,5.5,6.0,5.5,0.1,28.0,"vegan,vegetarian","lunch,dinner",45.0,medium,Sweets & Desserts
+F0266,Cakes,1 slice,40.0,110.0,3.0,0.05,0.0,0.0,23.0,"Desserts, sweets",275.0,7.5,0.12,0.0,0.0,57.5,"vegan,vegetarian,low-fat","lunch,dinner",46.0,high,Sweets & Desserts
+F0267,Chocolate fudge,1 slice,120.0,420.0,5.0,14.0,12.0,0.3,70.0,"Desserts, sweets",350.0,4.17,11.67,10.0,0.25,58.33,"vegan,vegetarian","lunch,dinner",25.7,high,Sweets & Desserts
+F0268,Cupcake,1,50.0,160.0,3.0,3.0,2.0,0.05,31.0,"Desserts, sweets",320.0,6.0,6.0,4.0,0.1,62.0,"vegan,vegetarian","lunch,dinner",36.5,high,Sweets & Desserts
+F0269,Fruit cake,1 slice,30.0,105.0,2.0,4.0,3.0,0.2,17.0,"Desserts, sweets",350.0,6.67,13.33,10.0,0.67,56.67,"vegan,vegetarian","lunch,dinner",28.3,high,Sweets & Desserts
+F0270,Gingerbread,1 slice,55.0,180.0,2.0,7.0,6.0,0.05,28.0,"Desserts, sweets",327.27,3.64,12.73,10.91,0.09,50.91,"vegan,vegetarian","lunch,dinner",25.8,high,Sweets & Desserts
+F0271,"Plain, with no icing",1 slice,55.0,180.0,4.0,5.0,4.0,0.05,31.0,"Desserts, sweets",327.27,7.27,9.09,7.27,0.09,56.36,"vegan,vegetarian","lunch,dinner",33.0,high,Sweets & Desserts
+F0272,Sponge cake,1 slice,40.0,115.0,3.0,2.0,2.0,0.0,22.0,"Desserts, sweets",287.5,7.5,5.0,5.0,0.0,55.0,"vegan,vegetarian","lunch,dinner",39.0,high,Sweets & Desserts
+F0273,Candy,5,25.0,104.0,0.05,3.0,3.0,0.0,19.0,"Desserts, sweets",416.0,0.2,12.0,12.0,0.0,76.0,"vegan,vegetarian","lunch,dinner",14.5,high,Sweets & Desserts
+F0274,Chocolate creams,2,30.0,130.0,0.05,4.0,4.0,0.0,24.0,"Desserts, sweets",433.33,0.17,13.33,13.33,0.0,80.0,"vegan,vegetarian","lunch,dinner",11.5,high,Sweets & Desserts
+F0275,Fudge,2 pieces,90.0,370.0,0.05,12.0,11.0,0.1,80.0,"Desserts, sweets",411.11,0.06,13.33,12.22,0.11,88.89,"vegan,vegetarian","lunch,dinner",14.7,high,Sweets & Desserts
+F0276,Hard candies,1 oz.,28.0,90.0,0.05,0.0,0.0,0.0,28.0,"Desserts, sweets",321.43,0.18,0.0,0.0,0.0,100.0,"vegan,vegetarian,low-fat","lunch,dinner",36.4,high,Sweets & Desserts
+F0277,Marshmallows,5,30.0,98.0,1.0,0.0,0.0,0.0,23.0,"Desserts, sweets",326.67,3.33,0.0,0.0,0.0,76.67,"vegan,vegetarian,low-fat","lunch,dinner",38.5,high,Sweets & Desserts
+F0278,Milk chocolate,2-oz. bar,56.0,290.0,2.0,6.0,6.0,0.2,44.0,"Desserts, sweets",517.86,3.57,10.71,10.71,0.36,78.57,"vegan,vegetarian","lunch,dinner",11.1,high,Sweets & Desserts
+F0279,Chocolate syrup,2 T.,40.0,80.0,0.05,0.05,0.05,0.0,22.0,"Desserts, sweets",200.0,0.12,0.12,0.12,0.0,55.0,"vegan,vegetarian,low-fat","lunch,dinner",46.0,medium,Sweets & Desserts
+F0280,Doughnuts,1,33.0,135.0,2.0,7.0,4.0,0.05,17.0,"Desserts, sweets",409.09,6.06,21.21,12.12,0.15,51.52,"vegan,vegetarian","lunch,dinner",19.8,high,Sweets & Desserts
+F0281,"Gelatin, made with water",1 cup,239.0,155.0,4.0,0.05,0.05,0.0,36.0,"Desserts, sweets",64.85,1.67,0.02,0.02,0.0,15.06,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",51.3,low,Sweets & Desserts
+F0282,Honey,2 T.,42.0,120.0,0.05,0.0,0.0,0.0,30.0,"Jams, Jellies",285.71,0.12,0.0,0.0,0.0,71.43,"vegan,vegetarian,low-fat","breakfast,snack",39.2,high,Sweets & Desserts
+F0283,Ices,1 cup,150.0,117.0,0.0,0.0,0.0,0.0,48.0,"Desserts, sweets",78.0,0.0,0.0,0.0,0.0,32.0,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",50.0,low,Sweets & Desserts
+F0284,preserves,1 T.,20.0,55.0,0.0,0.0,0.0,0.05,14.0,"Jams, Jellies",275.0,0.0,0.0,0.0,0.25,70.0,"vegan,vegetarian,low-fat","breakfast,snack",40.4,high,Sweets & Desserts
+F0285,Jellies,1 T.,20.0,50.0,0.0,0.0,0.0,0.0,13.0,"Jams, Jellies",250.0,0.0,0.0,0.0,0.0,65.0,"vegan,vegetarian,low-fat","breakfast,snack",42.0,high,Sweets & Desserts
+F0286,Molasses,1 T.,20.0,45.0,0.0,0.0,0.0,8.0,11.0,"Jams, Jellies",225.0,0.0,0.0,0.0,40.0,55.0,"vegan,vegetarian,low-fat,high-fiber","breakfast,snack",59.0,medium,Sweets & Desserts
+F0287,Cane Syrup,1 T.,20.0,50.0,0.0,0.0,0.0,0.0,13.0,"Jams, Jellies",250.0,0.0,0.0,0.0,0.0,65.0,"vegan,vegetarian,low-fat","breakfast,snack",42.0,high,Sweets & Desserts
+F0288,"9"" diam. pie",1 slice,135.0,330.0,3.0,13.0,11.0,0.1,53.0,"Desserts, sweets",244.44,2.22,9.63,8.15,0.07,39.26,"vegan,vegetarian","lunch,dinner",34.5,medium,Sweets & Desserts
+F0289,Cherry Pie,1 slice,135.0,340.0,3.0,13.0,11.0,0.1,55.0,"Desserts, sweets",251.85,2.22,9.63,8.15,0.07,40.74,"vegan,vegetarian","lunch,dinner",34.0,high,Sweets & Desserts
+F0290,Custard,1 slice,130.0,265.0,7.0,11.0,10.0,0.0,34.0,"Desserts, sweets",203.85,5.38,8.46,7.69,0.0,26.15,"vegan,vegetarian","lunch,dinner",40.8,medium,Sweets & Desserts
+F0291,Lemon meringue,1 slice,120.0,300.0,4.0,12.0,10.0,0.1,45.0,"Desserts, sweets",250.0,3.33,10.0,8.33,0.08,37.5,"vegan,vegetarian","lunch,dinner",34.8,high,Sweets & Desserts
+F0292,Mince,1 slice,135.0,340.0,3.0,9.0,8.0,0.7,62.0,"Desserts, sweets",251.85,2.22,6.67,5.93,0.52,45.93,"vegan,vegetarian","lunch,dinner",37.3,high,Sweets & Desserts
+F0293,Pumpkin Pie,1 slice,130.0,265.0,5.0,12.0,11.0,8.0,34.0,"Desserts, sweets",203.85,3.85,9.23,8.46,6.15,26.15,"vegan,vegetarian,high-fiber","lunch,dinner",47.8,medium,Sweets & Desserts
+F0294,Puddings Sugar,1 cup,200.0,770.0,0.0,0.0,0.0,0.0,199.0,"Desserts, sweets",385.0,0.0,0.0,0.0,0.0,99.5,"vegan,vegetarian,low-fat","lunch,dinner",31.2,high,Sweets & Desserts
+F0295,3 teaspoons sugar,1 T.,12.0,50.0,0.0,0.0,0.0,0.0,12.0,"Desserts, sweets",416.67,0.0,0.0,0.0,0.0,100.0,"vegan,vegetarian,low-fat","lunch,dinner",28.7,high,Sweets & Desserts
+F0296,"Brown, firm-packed, dark sugar",1 cup,220.0,815.0,0.0,0.05,0.0,0.0,210.0,"Jams, Jellies",370.45,0.0,0.02,0.0,0.0,95.45,"vegan,vegetarian,low-fat","breakfast,snack",32.4,high,Sweets & Desserts
+F0297,Syrup,2 T.,40.0,100.0,0.0,0.0,0.0,0.0,25.0,"Jams, Jellies",250.0,0.0,0.0,0.0,0.0,62.5,"vegan,vegetarian,low-fat","breakfast,snack",42.0,high,Sweets & Desserts
+F0298,table blends sugar,2 T.,40.0,110.0,0.0,0.0,0.0,0.0,29.0,"Jams, Jellies",275.0,0.0,0.0,0.0,0.0,72.5,"vegan,vegetarian,low-fat","breakfast,snack",40.0,high,Sweets & Desserts
+F0299,Tapioca cream pudding,1 cup,250.0,335.0,10.0,10.0,9.0,0.0,42.0,"Desserts, sweets",134.0,4.0,4.0,3.6,0.0,16.8,"vegan,vegetarian","lunch,dinner",48.9,medium,Sweets & Desserts
+F0300,Almonds,1/2 cup,70.0,425.0,13.0,38.0,28.0,1.8,13.0,Seeds and Nuts,607.14,18.57,54.29,40.0,2.57,18.57,"vegan,vegetarian,high-protein",snack,8.1,high,"Fats, Oils & Nuts"
+F0301,roasted and salted,1/2 cup,70.0,439.0,13.0,40.0,31.0,1.8,13.0,Seeds and Nuts,627.14,18.57,57.14,44.29,2.57,18.57,"vegan,vegetarian,high-protein",snack,6.5,high,"Fats, Oils & Nuts"
+F0302,Brazil nuts,1/2 cup,70.0,457.0,10.0,47.0,31.0,2.0,7.0,Seeds and Nuts,652.86,14.29,67.14,44.29,2.86,10.0,"vegan,vegetarian,low-carb",snack,1.5,high,"Fats, Oils & Nuts"
+F0303,Cashews,1/2 cup,70.0,392.0,12.0,32.0,28.0,0.9,20.0,Seeds and Nuts,560.0,17.14,45.71,40.0,1.29,28.57,"vegan,vegetarian,high-protein",snack,8.8,high,"Fats, Oils & Nuts"
+F0304,coconut sweetened,1/2 cup,50.0,274.0,1.0,20.0,19.0,2.0,26.0,Seeds and Nuts,548.0,2.0,40.0,38.0,4.0,52.0,"vegan,vegetarian,high-fiber",snack,1.8,high,"Fats, Oils & Nuts"
+F0305,Peanut butter,1/3 cup,50.0,300.0,12.0,25.0,17.0,0.9,9.0,Seeds and Nuts,600.0,24.0,50.0,34.0,1.8,18.0,"vegan,vegetarian,high-protein",snack,11.9,high,"Fats, Oils & Nuts"
+F0306,"Peanut butter, natural",1/3 cup,50.0,284.0,13.0,24.0,10.0,0.9,8.0,Seeds and Nuts,568.0,26.0,48.0,20.0,1.8,16.0,"vegan,vegetarian,high-protein",snack,16.1,high,"Fats, Oils & Nuts"
+F0307,Peanuts,1/3 cup,50.0,290.0,13.0,25.0,16.0,1.2,9.0,Seeds and Nuts,580.0,26.0,50.0,32.0,2.4,18.0,"vegan,vegetarian,high-protein",snack,16.0,high,"Fats, Oils & Nuts"
+F0308,Pecans,1/2 cup,52.0,343.0,5.0,35.0,25.0,1.1,7.0,Seeds and Nuts,659.62,9.62,67.31,48.08,2.12,13.46,"vegan,vegetarian",snack,0.0,high,"Fats, Oils & Nuts"
+F0309,Sesame seeds,1/2 cup,50.0,280.0,9.0,24.0,13.0,3.1,10.0,Seeds and Nuts,560.0,18.0,48.0,26.0,6.2,20.0,"vegan,vegetarian,high-protein,high-fiber",snack,16.9,high,"Fats, Oils & Nuts"
+F0310,Sunflower seeds,1/2 cup,50.0,280.0,12.0,26.0,7.0,1.9,10.0,Seeds and Nuts,560.0,24.0,52.0,14.0,3.8,20.0,"vegan,vegetarian,high-protein,high-fiber",snack,25.3,high,"Fats, Oils & Nuts"
+F0311,Walnuts,1/2 cup,50.0,325.0,7.0,32.0,7.0,1.0,8.0,Seeds and Nuts,650.0,14.0,64.0,14.0,2.0,16.0,"vegan,vegetarian",snack,7.4,high,"Fats, Oils & Nuts"
+F0312,Beer,2 cups,480.0,228.0,0.05,0.0,0.0,0.0,8.0,"Drinks,Alcohol, Beverages",47.5,0.01,0.0,0.0,0.0,1.67,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0313,Gin,1 oz.,28.0,70.0,0.0,0.0,0.0,0.0,0.05,"Drinks,Alcohol, Beverages",250.0,0.0,0.0,0.0,0.0,0.18,"vegan,vegetarian,low-carb,low-fat","lunch,dinner",42.0,high,Beverages & Soups
+F0314,Wines,1/2 cup,120.0,164.0,0.05,0.0,0.0,0.0,9.0,"Drinks,Alcohol, Beverages",136.67,0.04,0.0,0.0,0.0,7.5,"vegan,vegetarian,low-carb,low-fat","lunch,dinner",50.0,medium,Beverages & Soups
+F0315,Table (12.2% alcohol),1/2 cup,120.0,100.0,0.05,0.0,0.0,0.0,5.0,"Drinks,Alcohol, Beverages",83.33,0.04,0.0,0.0,0.0,4.17,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0316,Carbonated drinks Artificially sweetened,12 oz.,346.0,0.0,0.0,0.0,0.0,0.0,0.0,"Drinks,Alcohol, Beverages",0.0,0.0,0.0,0.0,0.0,0.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0317,Club soda,12 oz.,346.0,0.0,0.0,0.0,0.0,0.0,0.0,"Drinks,Alcohol, Beverages",0.0,0.0,0.0,0.0,0.0,0.0,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0318,Cola drinks,12 oz.,346.0,137.0,0.0,0.0,0.0,0.0,38.0,"Drinks,Alcohol, Beverages",39.6,0.0,0.0,0.0,0.0,10.98,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0319,Fruit-flavored soda,12 oz.,346.0,161.0,0.0,0.0,0.0,0.0,42.0,"Drinks,Alcohol, Beverages",46.53,0.0,0.0,0.0,0.0,12.14,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0320,Ginger ale,12 oz.,346.0,105.0,0.0,0.0,0.0,0.0,28.0,"Drinks,Alcohol, Beverages",30.35,0.0,0.0,0.0,0.0,8.09,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0321,Root beer,12 oz.,346.0,140.0,0.0,0.0,0.0,0.0,35.0,"Drinks,Alcohol, Beverages",40.46,0.0,0.0,0.0,0.0,10.12,"vegan,vegetarian,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0322,Coffee,1 cup,230.0,3.0,0.05,0.0,0.0,0.0,1.0,"Drinks,Alcohol, Beverages",1.3,0.02,0.0,0.0,0.0,0.43,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
+F0323,Tea,1 cup,230.0,4.0,0.0,0.05,0.0,0.0,1.0,"Drinks,Alcohol, Beverages",1.74,0.0,0.02,0.0,0.0,0.43,"vegan,vegetarian,low-carb,low-fat,low-calorie","lunch,dinner",50.0,low,Beverages & Soups
