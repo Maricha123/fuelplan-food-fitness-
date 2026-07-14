@@ -24,6 +24,20 @@ DIET_FILTER = {
 }
 
 
+def water_intake_target(weight_kg: float, minutes_exercise: int = 0) -> float:
+    """Returns recommended daily water intake in liters.
+
+    Baseline: 35 ml per kg of bodyweight/day, a widely-used general hydration guideline.
+    Plus ~12 ml per minute of exercise, to replace fluid lost through sweat
+    (roughly in line with ~500-700 ml/hour during moderate activity).
+    Does not account for climate, illness, or pregnancy - those raise needs further.
+    """
+    base_ml = weight_kg * 35
+    exercise_ml = minutes_exercise * 12
+    total_ml = base_ml + exercise_ml
+    return round(total_ml / 1000, 2)
+
+
 def bmi(weight_kg: float, height_cm: float) -> float:
     return round(weight_kg / (height_cm / 100) ** 2, 1)
 

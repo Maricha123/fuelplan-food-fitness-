@@ -6,13 +6,14 @@ import plotly.express as px
 from recommender import (
     bmi, bmi_class, bmr_mifflin, tdee, target_calories, macro_targets,
     recommend_foods, similar_foods, recommend_exercises, weekly_plan,
+    water_intake_target,
 )
 
 # ----------------------------------------------------------------------------
 # Page config + theme
 # ----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="FuelPlan — Food & Fitness Recommender",
+    page_title="Food & Fitness Recommender",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -160,7 +161,7 @@ with st.sidebar:
 # ----------------------------------------------------------------------------
 st.markdown(f"""
 <div class="hero">
-  <h1>FuelPlan</h1>
+  <h1>Food & Fitness Recommender</h1>
   <p>Personalized food & fitness recommendations, built from real nutrition data and MET-based exercise science.</p>
 </div>
 """, unsafe_allow_html=True)
@@ -174,13 +175,15 @@ bmr_val = bmr_mifflin(weight_kg, height_cm, age, gender)
 tdee_val = tdee(bmr_val, activity_level)
 target = target_calories(tdee_val, goal)
 protein_g, carbs_g, fat_g = macro_targets(target, goal)
+water_l = water_intake_target(weight_kg, minutes)
 
-m1, m2, m3, m4 = st.columns(4)
+m1, m2, m3, m4, m5 = st.columns(5)
 for col, label, value, sub in [
     (m1, "BMI", f"{b}", bclass.capitalize()),
     (m2, "BMR", f"{bmr_val:.0f} kcal", "resting energy use"),
     (m3, "TDEE", f"{tdee_val:.0f} kcal", "total daily burn"),
     (m4, "Target intake", f"{target:.0f} kcal", goal.replace('_', ' ').title()),
+    (m5, "Water", f"{water_l:.1f} L", f"~{water_l*4.2:.0f} glasses/day"),
 ]:
     col.markdown(f"""
     <div class="metric-card">
@@ -334,6 +337,7 @@ def build_report_text():
     lines.append(f"TDEE: {tdee_val:.0f} kcal/day")
     lines.append(f"Target intake: {target:.0f} kcal/day")
     lines.append(f"Macro targets: Protein {protein_g:.0f}g | Carbs {carbs_g:.0f}g | Fat {fat_g:.0f}g")
+    lines.append(f"Water intake target: {water_l:.1f} L/day (~{water_l*4.2:.0f} glasses)")
     lines.append("")
     lines.append("RECOMMENDED FOODS (top matches, all meal types)")
     lines.append("-" * 60)
@@ -415,7 +419,7 @@ def build_report_pdf():
         ["BMI", f"{b} ({bclass})", "BMR", f"{bmr_val:.0f} kcal/day"],
         ["TDEE", f"{tdee_val:.0f} kcal/day", "Target intake", f"{target:.0f} kcal/day"],
         ["Protein target", f"{protein_g:.0f} g", "Carbs target", f"{carbs_g:.0f} g"],
-        ["Fat target", f"{fat_g:.0f} g", "", ""],
+        ["Fat target", f"{fat_g:.0f} g", "Water intake", f"{water_l:.1f} L/day"],
     ]
     t2 = Table(key_data, colWidths=[110, 140, 110, 140])
     t2.setStyle(TableStyle([
