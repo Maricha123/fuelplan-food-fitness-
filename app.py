@@ -13,7 +13,7 @@ from recommender import (
 # Page config + theme
 # ----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Food & Fitness Recommender",
+    page_title="FuelPlan — Food & Fitness Recommender",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -161,7 +161,7 @@ with st.sidebar:
 # ----------------------------------------------------------------------------
 st.markdown(f"""
 <div class="hero">
-  <h1>Food & Fitness Recommender</h1>
+  <h1>FuelPlan</h1>
   <p>Personalized food & fitness recommendations, built from real nutrition data and MET-based exercise science.</p>
 </div>
 """, unsafe_allow_html=True)
